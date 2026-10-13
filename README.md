@@ -13,6 +13,10 @@ A custom web interface, Excel-based data processing and a UiPath workflow work t
 
 ## Preview
 
+![RPA automation dashboard](screenshots/ui-dashboard.jpg)
+
+*Dashboard of the automation, with the workflow flow.*
+
 ---
 
 ## Demo Videos
